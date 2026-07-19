@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.qkeats.shop
+REDIS_HOST: redis.qkeats.shop
+MYSQL_HOST: mysql.qkeats.shop 
+RABBITMQ_HOST: rabbitmq.qkeats.shop 
+CATALOGUE_HOST: catalogue.qkeats.shop
+USER_HOST: user.qkeats.shop
+CART_HOST: cart.qkeats.shop
+SHIPPING_HOST: shipping.qkeats.shop
+PAYMENT_HOST: payment.qkeats.shop
